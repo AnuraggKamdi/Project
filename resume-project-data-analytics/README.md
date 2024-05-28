@@ -1,0 +1,1 @@
+In this Data Analyst project I have built a Dashboard for HR Attendance magagement, so that HR can easily keep track of attendance and analysis on the employee attendence so that they can perform various actions accordingly like meetings, team building activities and performance monitering. 
