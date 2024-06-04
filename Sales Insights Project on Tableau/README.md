@@ -1,0 +1,2 @@
+In this Project I have made a sales insight Dashboard using Tableau software and MySQL. 
+I have connected Tableau and MySQL with eachother the password of the database is @Anurag1 and username is root name of database is sales.
