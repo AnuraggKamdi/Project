@@ -1,1 +1,0 @@
-In this project I have created a PowerBi Dashboard with data acessed from MySQL by linking PowerBi and MySQL and then perfrom data cleaning on the tables in PowerBi itself and then created a Dashboard from Sales Revenue Insights. 
